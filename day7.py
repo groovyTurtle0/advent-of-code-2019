@@ -1,5 +1,5 @@
 #Puzzle Input
-f = open("C:\\Users\\Max\\Documents\\AoC\\2019\\input-7.txt", "r")
+f = open("path\\to\\input.txt", "r")
 puzzleinput = f.read()
 f.close()
 
